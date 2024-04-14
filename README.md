@@ -1,2 +1,2 @@
 # Madre-Tierra
-Sitio Web Informativo para la materia de Interacción Humano Computadora de la carrera de Ing. en TIC´s del ITSNa
+Desarrollo de un sitio Web informativo para la materia de Interacción Humano Computadora de la carrera de Ingeniería en Tecnologías de la Información y Comunicaciones del Instituto Tecnológico Superior de Naranjos, utilizando las siguientes tecnologías Front End: HTML, CSS y JavaScript, y utilizando el framework para el desarrollo responsivo Bootstrap y la biblioteca de JavaScript JQuery.
